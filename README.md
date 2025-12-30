@@ -1,16 +1,21 @@
-Aweis Haji
-📊 Data Analyst | 🖥️ IT Support Specialist | 📣 Digital Marketer
+👋 Aweis Haji
+📊 Data Analyst  |  🖥️ IT Support Specialist  |  📣 Digital Marketer
 
-I am a motivated technology professional with experience across data analysis, IT support, and digital solutions. 
-I specialize in turning raw data into actionable insights, supporting users and systems reliably,
-and building practical tools that support decision-making and operations.
+I am a motivated technology professional with experience across data analysis, IT support, and digital solutions.
+I specialize in transforming raw data into actionable insights, supporting users and systems reliably, and 
+building practical tools that enhance decision-making and operational efficiency.
 
-My background includes hands-on IT troubleshooting, system setup, user support, and growing expertise in data cleaning, 
-reporting, dashboards, and visualization. 
-I am passionate about continuous learning, collaboration, and delivering high-quality, dependable solutions.
+My background includes hands-on IT troubleshooting, system setup, and user support, alongside growing expertise 
+in data cleaning, reporting, dashboards, and visualization. I am passionate about continuous
+learning, collaboration, and delivering high-quality, dependable solutions.
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eng-Bidaaye&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Bidaaye&layout=compact&theme=github_dark&hide_border=true)
+
 
 🛠️ Skills
-
 📈 Data Analysis
 
 Excel & Google Sheets
@@ -45,7 +50,7 @@ GitHub
 
 📂 Portfolio Projects
 
-(More coming soon — actively building)
+🚧 More projects coming soon — actively building and improving.
 
 🏅 Certifications
 
