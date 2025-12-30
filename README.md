@@ -10,9 +10,11 @@ in data cleaning, reporting, dashboards, and visualization. I am passionate abou
 learning, collaboration, and delivering high-quality, dependable solutions.
 ## 📊 GitHub Stats
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eng-Bidaaye&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Bidaaye&layout=compact&theme=github_dark&hide_border=true)
+
 
 
 🛠️ Skills
