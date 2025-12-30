@@ -1,71 +1,106 @@
-👋 Aweis Haji
-📊 Data Analyst  |  🖥️ IT Support Specialist  |  📣 Digital Marketer
+<h1 align="center">
+  Hi 👋, I'm Aweis Haji
+</h1>
 
-I am a motivated technology professional with experience across data analysis, IT support, and digital solutions.
-I specialize in transforming raw data into actionable insights, supporting users and systems reliably, and 
-building practical tools that enhance decision-making and operational efficiency.
+<h3 align="center">
+  📊 Data Analyst | 🖥️ IT Support Specialist | 📣 Digital Marketer
+</h3>
 
-My background includes hands-on IT troubleshooting, system setup, and user support, alongside growing expertise 
-in data cleaning, reporting, dashboards, and visualization. I am passionate about continuous
-learning, collaboration, and delivering high-quality, dependable solutions.
+<p align="center">
+  I am a motivated technology professional with experience across data analysis, IT support, and digital solutions.
+  I specialize in transforming raw data into actionable insights, supporting users and systems reliably,
+  and building practical tools that enhance decision-making and operational efficiency.
+</p>
 
-🛠️ Skills
-📈 Data Analysis
+<p align="center">
+  My background includes hands-on IT troubleshooting, system setup, and user support, alongside growing expertise
+  in data cleaning, reporting, dashboards, and visualization. I am passionate about continuous learning,
+  collaboration, and delivering high-quality, dependable solutions.
+</p>
 
-Excel & Google Sheets
+---
 
-Data cleaning & validation
+## 🚀 Featured Projects
 
-Reporting & dashboards
+<p align="center">
+  <a href="https://bidaaye.damk/">
+    <img src="https://via.placeholder.com/300x150.png?text=Future+Project+1" width="300" height="150"/>
+  </a>
+  <a href="#">
+    <img src="https://via.placeholder.com/300x150.png?text=Future+Project+2" width="300" height="150"/>
+  </a>
+</p>
 
-Power BI (learning)
+---
 
-SQL (learning)
+## 🔥 About Me
 
-🖥️ IT Support
+- 🔭 **Currently working on:** Freelance projects  
+- 🌱 **Currently learning:** Advanced Data Analysis (Excel, SQL, Python)  
+- 👯 **Looking to collaborate on:** Health & data-driven projects  
+- 🤝 **Seeking guidance in:** Advanced analytics techniques  
+- 👨‍💻 **Portfolio:** https://github.com/Eng-Bidaaye/DataAnalysisportofio  
+- 📫 **Contact:**  
+  - Email: Bidaaye.damk@gmail.com  
+  - WhatsApp: https://wa.me/252617335024  
 
-Hardware & software troubleshooting
+---
 
-System setup & user support
+## 📈 GitHub Activity Graph
 
-Basic networking concepts
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-Bidaaye&theme=react-dark" />
+</p>
 
-Documentation & issue resolution
+---
 
-📣 Digital & Data Tools
+## 📊 GitHub Stats
 
-Analytics & insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-Bidaaye&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
-Content & digital tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Bidaaye&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-Google Workspace
+---
 
-GitHub
+## 🛠️ Skills & Certifications
 
-📂 Portfolio Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Excel%20%7C%20SQL%20%7C%20Python-blue" />
+  <img src="https://img.shields.io/badge/IT%20Support-Troubleshooting%20%7C%20Systems-green" />
+  <img src="https://img.shields.io/badge/Digital%20Marketing-Analytics%20%7C%20Content-orange" />
+</p>
 
-🚧 More projects coming soon — actively building and improving.
+---
 
-🏅 Certifications
+## 🧰 Languages & Tools
 
-🟦 Google Data Analytics (in progress / completed)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
 
-🟩 Google IT Support (in progress / completed)
+---
 
-🟪 Microsoft Power BI Data Analyst (learning)
+## 📱 Connect with Me
 
-🎯 Career Goals
+<p align="center">
+  <a href="https://www.linkedin.com/in/aweis-haji">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/>
+  </a>
+  <a href="https://wa.me/252617335024">
+    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" width="40"/>
+  </a>
+</p>
 
-Strengthen professional data analytics expertise
+---
 
-Build reliable, real-world projects
+## 💡 Fun Fact
 
-Contribute to impactful health, NGO, and tech initiatives
-
-📫 Contact
-
-💼 LinkedIn: https://www.linkedin.com/in/aweis-haji
-
-📧 Email: Bidaaye.damk@gmail.com
-
-⭐ Focused on learning. Committed to impact. Driven by data & technology.
+> “Data tells a story — and I love being the storyteller.”
