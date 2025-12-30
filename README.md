@@ -8,10 +8,6 @@ building practical tools that enhance decision-making and operational efficiency
 My background includes hands-on IT troubleshooting, system setup, and user support, alongside growing expertise 
 in data cleaning, reporting, dashboards, and visualization. I am passionate about continuous
 learning, collaboration, and delivering high-quality, dependable solutions.
-## 📊 GitHub Stats
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Eng-Bidaaye&show_icons=true&theme=github_dark&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Bidaaye&layout=compact&theme=github_dark&hide_border=true" />
 
 🛠️ Skills
 📈 Data Analysis
